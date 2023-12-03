@@ -1,5 +1,8 @@
 ### :rice:소개
 ![1차 프로젝트](https://github.com/Song0-0/FirstMiniProject/assets/102652457/26bd9ef8-550a-4466-866a-2eb0cb793436)
+
+<img src='https://github.com/Song0-0/FirstMiniProject/assets/102652457/26bd9ef8-550a-4466-866a-2eb0cb793436'width="200" height="400"/>
+
 ```
 분할결제가 가능한 키오스크를 보셨나요? 
 오직 자바만 사용하여 음식점 키오스크 결제 시스템을 만들었습니다.
