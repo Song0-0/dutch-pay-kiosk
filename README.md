@@ -23,7 +23,7 @@ Java
 MySQL
 ```
 
-### 핵심 구현 내용
+### :triangular_flag_on_post:핵심 구현 내용
 분할 결제가 가능하도록 구현하였습니다.
 ![Untitled (2)](https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/4868dd39-6555-4384-a78d-352d3d2ac983)
 
