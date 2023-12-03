@@ -14,7 +14,8 @@
 - 분할 결제가 가능합니다.
 ```
 ### :white_circle:ERD
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cf079e3-19c9-4dc3-ab00-d719e31e4bfa/1053adc9-f3b4-4f41-b02a-c426026f9895/Untitled.png)
+![erd](https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/bee08f9f-4320-4c4c-9818-4026e7685727)
+
 
 ### :computer:기술스택
 ```
@@ -24,7 +25,8 @@ MySQL
 
 ### 핵심 구현 내용
 분할 결제가 가능하도록 구현하였습니다.
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cf079e3-19c9-4dc3-ab00-d719e31e4bfa/38012b17-a739-4189-8c64-76142de0c3be/Untitled.png)
+![Untitled (2)](https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/4868dd39-6555-4384-a78d-352d3d2ac983)
+
 
 ### :raising_hand:팀원 총3명
 
