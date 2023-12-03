@@ -1,5 +1,5 @@
 ### :rice:소개
-<img src="https://github.com/Song0-0/FirstMiniProject/assets/102652457/26bd9ef8-550a-4466-866a-2eb0cb793436" width="300" height="300"/>
+<img src="https://github.com/Song0-0/FirstMiniProject/assets/102652457/26bd9ef8-550a-4466-866a-2eb0cb793436" width="400" height="400"/>
 
 ```
 분할결제가 가능한 키오스크를 보셨나요? 
@@ -16,10 +16,10 @@
 ```
 
 ### :white_circle:유스케이스
-<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/bee08f9f-4320-4c4c-9818-4026e7685727" width="300" height="300"/>
+<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/bee08f9f-4320-4c4c-9818-4026e7685727" width="500" height="300"/>
 
 ### :large_blue_diamond:클래스다이어그램
-<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/85752cb2-7578-4120-aa74-3f7a5bfa4e42" width="300" height="300"/>
+<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/85752cb2-7578-4120-aa74-3f7a5bfa4e42" width="600" height="300"/>
 
 ### :computer:기술스택
 ```
@@ -28,8 +28,10 @@ MySQL
 ```
 
 ### :triangular_flag_on_post:핵심 구현 내용
+```
 분할 결제가 가능하도록 구현하였습니다.
-<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/4868dd39-6555-4384-a78d-352d3d2ac983" width="300" height="300"/>
+```
+<img src="https://github.com/Song0-0/dutch-pay-kiosk/assets/102652457/4868dd39-6555-4384-a78d-352d3d2ac983" width="700" height="300"/>
 
 ### :raising_hand:팀원 총3명
 
